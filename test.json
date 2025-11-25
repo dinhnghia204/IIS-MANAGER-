@@ -1,0 +1,17 @@
+[
+  {
+    "SiteName": "WebBanHang",
+    "Port": 8001,
+    "Folder": "F:\\Test\\Webs\\BanHang"
+  },
+  {
+    "SiteName": "WebTinTuc",
+    "Port": 8002,
+    "Folder": "F:\\Test\\Webs\\TinTuc"
+  },
+  {
+    "SiteName": "WebNoiBo",
+    "Port": 8003,
+    "Folder": "F:\\Test\\DuLieu\\WebNoiBo"
+  }
+]
